@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/    
+temp/
+.env
+# uploads/
+package-lock.json
+dist/
+.DS_Store
+public/
+.packagehash
+"src/views/*.json" 
